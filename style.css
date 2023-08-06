@@ -400,7 +400,7 @@
   position: relative;
   margin: 40px 20px 10px 0;
   border-radius: 20px;
-  box-shadow: 0 5px 20px 4px #f8f0e8;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.88);
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -422,7 +422,7 @@
 .MochiBox .MochiContent {
   z-index: 1;
   position: relative;
-  width: 250px;
+  width: 300px;
   height: 200px;
   padding: 15px;
   background: white;
@@ -668,54 +668,77 @@
   }
 }
 body {
-  color: #5f3d1e;
-  background: #fdfbee;
+  color: #866743;
+  background: #FBFBFC;
   padding: 20px;
   font-family: "Baloo", cursive;
 }
 
-h2 {
-  font-size: 10px; /* Reduced from 20px */
-  margin: 2.5px 0 0; /* Reduced from 5px */
-  font-weight: 600;
-  font-family: "Kosugi Maru";
+.circle {
+  position: absolute;
+  top: 12.5px;
+  left: 12.5px;
+  width: 7.5px;
+  height: 7.5px;
+  background-color: #E8E8E8; /* 圆的颜色 */
+  border-radius: 50%; /* 设置为半径的一半，即 2.5px */
 }
-
-h3 {
-  font-size: 16px; /* Reduced from 32px */
-  margin: 0 0 2.5px; /* Reduced from 5px */
-  font-weight: 200;
-  letter-spacing: -0.03em; /* Adjusted from -0.06em */
-  line-height: 0.8;
-}
-
 
 p, h1 {
   margin: 5px 0;
 }
 
 h1 {
+  font-size: 21px;
+  font-weight: bold;
   line-height: 0.7;
+  color: #5E3D1D; /* 设置整个 <h1> 的颜色 */
+  margin-top: 20px;
+}
+
+h1::first-letter {
+  color: #CD7711; /* 设置第一个字母的颜色 */
+}
+
+h2 {
+  color: #7f5f39;
+  font-size: 9px; /* Reduced from 20px */
+  margin: 2.5px 0 0; /* Reduced from 5px */
+  font-weight: 600;
+  font-family: "Kosugi Maru";
+  position: absolute;
+  top: 60px;
+  word-wrap: break-word; /* 或者使用 overflow-wrap: break-word; */
+  width: 260px;
+  margin-right: 20px; /* 设置右边距为 7.5% */
+  margin-left: 5px;
+}
+
+h3 {
+  color: #5E3D1D;
+  font-size: 18px; /* Reduced from 32px */
+  margin: 0 0 2.5px; /* Reduced from 5px */
+  font-weight: 800;
+  line-height: 0.8;
+  position: absolute;
+  top: 37.5px;
+  left: 20px;
 }
 
 p.shop {
-  background: #002a57;
+  background: #E8E8E8;
   border-radius: 20px;
   display: inline-block;
-  color: white;
-  font-size: 12px;
+  color: #898989;
+  font-size: 9px;
   font-family: "Kosugi Maru";
+  margin: 0;
   padding: 3px 6px;
+  position: absolute;
+  top: 33.5px;
+  right: 20px;
 }
-p.shop.site {
-  background: #e65c5c;
-}
-p.shop.blog {
-  background: hsl(215, 72%, 66%);
-}
-p.shop.courses {
-  background: #356320;
-}
+
 
 a {
   color: inherit;
@@ -726,21 +749,27 @@ a.show, a:hover {
 }
 
 .sub {
+  color: #866743;
+  font-size: 14px;
+  font-weight: 300;
   font-family: Arial;
+  margin-bottom: 20px;
 }
 
 button {
-  color: #301d0b;
-  background: #c2ab96;
+  color: #8F7356;
+  background: #DECFC7;
   border: 1px solid transparent;
-  border-radius: 5px;
+  border-radius: 10px;
   padding: 8px 12px;
   font-family: monaco, consolas, "courier new", monospace;
   cursor: pointer;
   position: absolute;
-  bottom: 7.5%;
-  left: 5%;
+  bottom: 20px;
+  right: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.72); /* 使用 RGBA 格式设置投影 */
 }
+
 
 button:hover {
   border-color: #5f3d1e;
