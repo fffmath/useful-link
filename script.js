@@ -279,3 +279,8 @@ let app = new Vue({
   el: "#app",
   data: {}
 });
+
+window.addEventListener('load', function() {
+  document.getElementById('preload-page').style.display = 'none';
+  document.getElementById('main-content').style.display = 'block';
+});
