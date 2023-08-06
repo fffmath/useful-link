@@ -781,33 +781,16 @@ button:hover {
   box-sizing: border-box;
 }
 
-/* 波浪形区域背景 */
+/* 波浪线背景 */
 .wave-background {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 200px; /* 调整高度以适应你的需求 */
-  background: #dccec6; /* 背景颜色 */
+  background: #dccec6;
   z-index: -1;
 }
 
-.wave {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: url('wave.svg'); /* 使用波浪形状的 SVG 图片 */
-  background-size: cover;
-  animation: wave-animation 5s linear infinite alternate; /* 动画效果 */
-}
 
-@keyframes wave-animation {
-  0% {
-    transform: translateY(0);
-  }
-  100% {
-    transform: translateY(-20px); /* 调整波浪的高度和运动距离 */
-  }
-}
+
