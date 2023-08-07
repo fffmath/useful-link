@@ -10,7 +10,7 @@ Welcome to the "Useful Links for Crypto" webpage! This webpage is designed to pr
 
 ## Preview
 
-![Webpage Preview](./preview.jpg)
+![Webpage Preview](./img/preview.jpg)
 
 ## Getting Started
 
