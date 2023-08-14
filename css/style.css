@@ -704,7 +704,7 @@ h1::first-letter {
 
 h2 {
   color: #7f5f39;
-  font-size: 9px; /* Reduced from 20px */
+  font-size: 12px; /* Reduced from 20px */
   margin: 2.5px 0 0; /* Reduced from 5px */
   font-weight: 600;
   font-family: "Kosugi Maru";
