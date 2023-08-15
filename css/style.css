@@ -750,6 +750,26 @@ a.show, a:hover {
   color: #002a57;
 }
 
+.top {
+  color: #b22828;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Arial;
+  margin-bottom: -10px;
+}
+
+.top a {
+  text-decoration: none; /* 移除默认的下划线样式 */
+}
+
+.about-link {
+  color: #a67531;
+}
+
+.follow-link {
+  color: #8e3b3b; 
+}
+
 .sub {
   color: #866743;
   font-size: 14px;
@@ -805,4 +825,16 @@ button:hover {
 #github:hover svg {
 	width: 120px;
 	height: 120px;
+}
+
+.center-content {
+  text-align: center; /* 设置文本水平居中 */
+  margin-top: 20px; /* 可根据需要调整顶部边距 */
+}
+
+/* 设置 <img> 标签的样式 */
+.center-content img {
+  width: 80px; /* 设置图像宽度 */
+  height: auto; /* 保持图像高度自适应，以保持纵横比 */
+  vertical-align: middle; /* 让图像在垂直方向上与文本居中对齐 */
 }
