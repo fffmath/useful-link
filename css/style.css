@@ -751,23 +751,11 @@ a.show, a:hover {
 }
 
 .top {
-  color: #b22828;
+  color: #ffffff;
   font-size: 14px;
   font-weight: 300;
   font-family: Arial;
   margin-bottom: -10px;
-}
-
-.top a {
-  text-decoration: none; /* 移除默认的下划线样式 */
-}
-
-.about-link {
-  color: #ffffff;
-}
-
-.follow-link {
-  color: #ffffff; 
 }
 
 .sub {
