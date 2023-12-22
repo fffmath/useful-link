@@ -12,6 +12,12 @@ Welcome to the "Useful Links for Crypto" webpage! This webpage is designed to pr
 
 ![Webpage Preview](./img/preview.jpg)
 
+## Todo
+
+- [x] Add dblp link for each people
+- [ ] Convert data from HTML to JSON or other formats
+- [ ] Add a JavaScript code that sorts people's information in alphabetical order
+
 ## Getting Started
 
 1. Clone the repository to your local machine.
