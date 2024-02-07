@@ -15,7 +15,7 @@ jobs:
 
     - name: Clear gh-pages branch
       run: |
-        git checkout gh-pages
+        git checkout -b gh-pages
         git rm -r *
         git commit -m "Clean gh-pages branch"
         git push origin gh-pages
