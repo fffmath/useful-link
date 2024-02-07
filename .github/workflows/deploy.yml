@@ -26,6 +26,8 @@ jobs:
 
     - name: Commit changes
       run: |
+        git config --local user.email "ysfeng2023@163.com"
+        git config --local user.name "fffmath"
         git add js css index.html README.md vercel.json
         git commit -m "Generate and update HTML files"
       
