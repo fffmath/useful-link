@@ -1,0 +1,49 @@
+sites:
+  - name: IACR|News
+    intro: The IACR is a non-profit organization devoted to supporting the promotion of the science of cryptology.
+    link: https://www.iacr.org/news/
+    tag: crypto
+  - name: BIU Cyber Center|Events
+    intro: Welcome to the Bar-llan Center for Research in Applied Cryptography and Cyber Security.
+    link: https://cyber.biu.ac.il/events/
+    tag: crypto
+  - name: AskCrypto
+    intro: Welcome to Ask Cryptography!
+    link: https://askcryp.to/
+    tag: crypto
+  - name: CCF Conference DDLs
+    intro: CCF Recommendation Conference Deadline Countdowns.
+    link: https://ccfddl.github.io/
+    tag: conf
+  - name: Simons for TCS
+    intro: The world's leading venue for collaborative research in theoretical computer science.
+    link: https://simons.berkeley.edu
+    tag: tcs
+  - name: QuantamaGazine
+    intro: An editorially independent publication supported by the Simons Foundation.
+    link: https://www.quantamagazine.org/
+    tag: pub
+  - name: S&P Conference DDLs
+    intro: Countdowns to top Security and Privacy conference deadlines.
+    link: https://sec-deadlines.github.io/
+    tag: conf
+  - name: AI Conference Deadlines
+    intro: Deadlines are shown in Asia/Shanghai time.
+    link: https://aideadlin.es/?sub=ML,DM
+    tag: conf
+  - name: S&P Conference Rank Ⅰ
+    intro: Ranked by a quantitative metric, Conference Impact Factor (CIF), proposed and maintained by Dr. Jianying Zhou.
+    link: http://jianying.space/conference-ranking.html
+    tag: conf
+  - name: S&P Conference Rank Ⅱ
+    intro: How to judge how good a conference is?
+    link: https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
+    tag: conf
+  - name: Lattice Challenge
+    intro: Welcome to the lattice challenge.
+    link: https://www.latticechallenge.org/
+    tag: crypto
+  - name: Bochum Challenges
+    intro: Encourage cryptanalysis of medium-sized instances of post-quantum schemes.
+    link: https://bochum-challeng.es/
+    tag: crypto

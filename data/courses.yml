@@ -1,0 +1,53 @@
+courses:
+  - name: MIT 6.875
+    intro: Foundations of Cryptography by Vinod Vaikuntanathan.
+    link: http://mit6875.org/
+    tag: crypto
+  - name: Illinois-cs598
+    intro: The initial part of the course will cover secure communication (encryption and authentication).
+    link: https://courses.engr.illinois.edu/cs598man/sp2016/
+    tag: crypto
+  - name: EECS 598 (2015)
+    intro: EECS 598--Lattices in Cryptography (2015) by Chris Peikert.
+    link: https://web.eecs.umich.edu/~cpeikert/lic15/index.html
+    tag: lattice
+  - name: CSE206A
+    intro: CSE206A--Lattices Algorithms and Applications (Spring 2014) by Daniele Micciancio.
+    link: https://cseweb.ucsd.edu/classes/sp14/cse206A-a/index.html
+    tag: lattice
+  - name: CS 294-168
+    intro: CS 294-168 LWE and Post-Quantum Cryptography by Vinod Vaikuntanathan.
+    link: http://people.csail.mit.edu/vinodv/CS294/
+    tag: crypto
+  - name: Simons-Lattice
+    intro: Lattices for Algorithms, Complexity, and Cryptography.
+    link: https://simons.berkeley.edu/programs/lattices-algorithms-complexity-cryptography/workshops#simons-tabs
+    tag: lattice
+  - name: CSE206A
+    intro: CSE206A--Lattices Algorithms and Applications (Fall 2021) by Daniele Micciancio.
+    link: https://cseweb.ucsd.edu/classes/fa21/cse206A-a/
+    tag: lattice
+  - name: Lattices in CS
+    intro: Lattices in Computer Science by Oded Regev (2009).
+    link: https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/index.html
+    tag: lattice
+  - name: Zero-Knowledge Proofs
+    intro: This class aims to bring together students and experts in academia and industry to explore Zero-Knowledge Proofs (ZKP).
+    link: https://zk-learning.org/
+    tag: zkp
+  - name: Modern ZKP
+    intro: Modern Zero Knowledge Cryptography (MIT IAP 2023).
+    link: https://zkiap.com/
+    tag: zkp
+  - name: The MoonMath Manual
+    intro: A resource for anyone interested in understanding and unlocking the potential of zk-SNARKs.
+    link: https://leastauthority.com/community-matters/moonmath-manual/
+    tag: zkp
+  - name: Proofs, Arguments & ZK
+    intro: Proofs, Arguments, and Zero-Knowledge, by Justin Thaler.
+    link: https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
+    tag: zkp
+  - name: Crypt-Computing
+    intro: Lecture Notes for Cryptographic Computing, by Claudio Orlandi.
+    link: https://users-cs.au.dk/orlandi/crycom/
+    tag: crypto

@@ -1,0 +1,93 @@
+scholars:
+  - name: Shweta Agrawal
+    link: http://www.cse.iitm.ac.in/~shwetaag/index.html
+    intro: My research interests are in cryptography, information security and generally, theoretical computer science.
+    dblp: https://dblp.uni-trier.de/pid/74/6138.html
+  - name: Divesh Aggarwal
+    link: https://sites.google.com/site/diveshhomepage
+    intro: An Associate Professor in the Department of Computer Science at NUS.
+    dblp: https://dblp.uni-trier.de/pid/00/3379.html
+  - name: Martin R. Albrecht
+    link: https://malb.io/
+    intro: I am a professor in the Cybersecurity Group at King’s College London.
+    dblp: https://dblp.uni-trier.de/pid/92/7397.html
+  - name: Dan Boneh
+    link: https://crypto.stanford.edu/~dabo/
+    intro: Professor of Computer Science and Electrical Engineering, Stanford University.
+    dblp: https://dblp.uni-trier.de/pid/b/DanBoneh.html
+  - name: Elette Boyle
+    link: https://cs.idc.ac.il/~elette/
+    intro: Associate Professor in Reichman University (IDC Herzliya), Israel.
+    dblp: https://dblp.uni-trier.de/pid/12/9528.html
+  - name: Alessandro Chiesa
+    link: https://ic-people.epfl.ch/~achiesa/
+    intro: I am an associate professor in the School of Computer and Communication Sciences at EPFL.
+    dblp: https://dblp.uni-trier.de/pid/27/8534.html
+  - name: Geoffroy Couteau
+    link: https://geoffroycouteau.github.io/
+    intro: A CNRS research scientist at IRIF, Université Paris Cité.
+    dblp: https://dblp.uni-trier.de/pid/160/3912.html
+  - name: Léo Ducas
+    link: https://homepages.cwi.nl/~ducas/
+    intro: BORN IN TOULON, FRANCE, ON OCT. 19, 1986.
+    dblp: https://dblp.uni-trier.de/pid/65/7849.html
+  - name: Vadim Lyubashevsky
+    link: https://research.ibm.com/people/vadim-lyubashevsky
+    intro: I am a cryptographer in the Security group at IBM Research Europe - Zurich.
+    dblp: https://dblp.org/pid/25/2540.html
+  - name: Alexander May
+    link: https://www.cits.ruhr-uni-bochum.de/personen/may.html
+    intro: Cryptanalysis Group | Faculty Computer Science | Ruhr-University Bochum.
+    dblp: https://dblp.uni-trier.de/pid/62/1898.html
+  - name: Daniele Micciancio
+    link: https://cseweb.ucsd.edu/~daniele/
+    intro: I am a professor in the Computer Science & Engineering department at the University of California, San Diego.
+    dblp: https://dblp.uni-trier.de/pid/03/3331.html
+  - name: Ngoc Khanh Nguyen
+    link: https://www.kcl.ac.uk/people/ngoc-khanh-nguyen
+    intro: Lecturer (Assistant Professor) in Cryptography at King's College London.
+    dblp: https://dblp.org/pid/75/9806-1.html
+  - name: Phong Q. Nguyen
+    link: https://www.di.ens.fr/~pnguyen/
+    intro: My research interests are cryptanalysis and algorithmic number theory, such as lattice reduction and integer factorization.
+    dblp: https://dblp.uni-trier.de/pid/n/PhongQNguyen.html
+  - name: Rafael Pass
+    link: https://www.cs.cornell.edu/~rafael/
+    intro: I am a Professor at Cornell Tech.
+    dblp: https://dblp.uni-trier.de/pid/p/RPass.html
+  - name: Chris Peikert
+    link: https://web.eecs.umich.edu/~cpeikert/
+    intro: My research interests include cryptography, lattices, coding theory, algorithms, and computational complexity.
+    dblp: https://dblp.uni-trier.de/pid/66/870.html
+  - name: Oded Regev
+    link: https://cims.nyu.edu/~regev/
+    intro: My main contribution there is to lattice-based cryptography.
+    dblp: https://dblp.uni-trier.de/pid/r/OdedRegev.html
+  - name: Damien Stehlé
+    link: https://perso.ens-lyon.fr/damien.stehle/
+    intro: My main interests are in cryptography, computational number theory and computer algebra.
+    dblp: https://dblp.uni-trier.de/pid/03/2822.html
+  - name: Noah SD
+    link: http://www.noahsd.com/
+    intro: I am an assistant professor in Cornell's computer science department.
+    dblp: https://dblp.uni-trier.de/pid/143/4482.html
+  - name: Vinod Vaikuntanathan
+    link: https://people.csail.mit.edu/vinodv/
+    intro: Professor at MIT EECS.
+    dblp: https://dblp.uni-trier.de/pid/v/VinodVaikuntanathan.html
+  - name: Aayush Jain
+    link: https://sites.google.com/view/aayushjain/home/
+    intro: An Assistant Professor in the  CS department at CMU. 
+    dblp: https://dblp.org/pid/126/6084.html
+  - name: Riad S. Wahby
+    link: https://wahby.net/
+    intro: Working on designing and building secure hardware and software systems.
+    dblp: https://dblp.org/pid/150/9448.html
+  - name: Peter Scholl
+    link: https://pascholl.github.io/
+    intro: An Associate Professor in the Cryptography Group at Aarhus University.
+    dblp: https://dblp.org/pid/00/10576.html
+  - name: Carsten Baum
+    link: https://carstenbaum.com/
+    intro: My research focus is on (applied) secure computation as well as (lattice-based) zero knowledge protocols.
+    dblp: https://dblp.org/pid/142/1667.html
