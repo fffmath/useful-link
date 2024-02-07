@@ -15,6 +15,8 @@ jobs:
 
     - name: Clear gh-pages branch
       run: |
+        git config --local user.email "ysfeng2023@163.com"
+        git config --local user.name "fffmath"
         git checkout -b gh-pages
         git rm -r *
         git commit -m "Clean gh-pages branch"
