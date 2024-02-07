@@ -1,8 +1,4 @@
 scholars:
-  - name: Shweta Agrawal
-    link: http://www.cse.iitm.ac.in/~shwetaag/index.html
-    intro: My research interests are in cryptography, information security and generally, theoretical computer science.
-    dblp: https://dblp.uni-trier.de/pid/74/6138.html
   - name: Divesh Aggarwal
     link: https://sites.google.com/site/diveshhomepage
     intro: An Associate Professor in the Department of Computer Science at NUS.
