@@ -17,7 +17,7 @@ Welcome to the "Useful Links for Crypto" webpage! This webpage is designed to pr
 - [x] Add a DBLP link for each person.
 - [x] Convert data from HTML to the format of a .yml file, which is easier to add and delete.
 - [x] Add a ~~JavaScript~~ Python code that sorts people's information in alphabetical order, with the help of ChatGPT.
-- [ ] Try to add a workflow for automated deployment.
+- [x] Try to add a workflow for automated deployment.
 
 
 ## Getting Started
