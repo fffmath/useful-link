@@ -87,3 +87,7 @@ scholars:
     link: https://carstenbaum.com/
     intro: My research focus is on (applied) secure computation as well as (lattice-based) zero knowledge protocols.
     dblp: https://dblp.org/pid/142/1667.html
+  - name: Ron Steinfeld 
+    link: https://research.monash.edu/en/persons/ron-steinfeld
+    intro: He has over 20 years of research experience in cryptography and information security.
+    dblp: https://dblp.org/pid/71/625.html
