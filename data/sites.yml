@@ -23,8 +23,8 @@ sites:
     intro: An editorially independent publication supported by the Simons Foundation.
     link: https://www.quantamagazine.org/
     tag: pub
-  - name: Siamak's Confernce Timeline
-    intro: Timeline of Privacy & General Security Conferences.
+  - name: Confernce Timeline
+    intro: Timeline of Privacy & General Security Conferences by Siamak.
     link: https://www-users.york.ac.uk/~sfs521/conference-timeline.html
     tag: conf
   - name: S&P Conference Rank Ⅰ
