@@ -3,10 +3,10 @@ courses:
     intro: Foundations of Cryptography by Vinod Vaikuntanathan.
     link: http://mit6875.org/
     tag: crypto
-  - name: Illinois-cs598
-    intro: The initial part of the course will cover secure communication (encryption and authentication).
-    link: https://courses.engr.illinois.edu/cs598man/sp2016/
-    tag: crypto
+  - name: MIT 6.S895
+    intro: Quantum Cryptography by Vinod Vaikuntanathan.
+    link: https://mitqcrypto.github.io/
+    tag: qcrypto
   - name: EECS 598 (2015)
     intro: EECS 598--Lattices in Cryptography (2015) by Chris Peikert.
     link: https://web.eecs.umich.edu/~cpeikert/lic15/index.html

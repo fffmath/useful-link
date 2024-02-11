@@ -92,6 +92,15 @@ scholars:
     link: https://research.monash.edu/en/persons/ron-steinfeld
     dblp: https://dblp.org/pid/71/625.html
   - name: Muhammed F. Esgin
-    intro: Lecturer, Faculty of Information Technology, Monash University
+    intro: Lecturer, Faculty of Information Technology, Monash University.
     link: https://mfesgin.github.io/
     dblp: https://dblp.org/pid/153/0549.html
+  - name:  Mark Zhandry
+    intro: I am a Senior Scientist at NTT Research.
+    link: https://mzhandry.github.io/
+    dblp: https://dblp.org/pid/39/10308.html
+    Ben Fisch
+  - name: Ben Fisch
+    intro: an assistant professor of computer science at Yale University
+    link: https://sites.google.com/site/benafisch/
+    dblp: https://dblp.org/pid/148/2252.html
