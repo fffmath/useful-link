@@ -100,6 +100,14 @@ scholars:
     link: https://mzhandry.github.io/
     dblp: https://dblp.org/pid/39/10308.html
   - name: Ben Fisch
-    intro: an assistant professor of computer science at Yale University
+    intro: An assistant professor of computer science at Yale University
     link: https://sites.google.com/site/benafisch/
     dblp: https://dblp.org/pid/148/2252.html
+  - name: Thomas Espitau
+    intro: I am an enthusiastic surfer and freeride skier.
+    link: https://espitau.com/
+    dblp: https://dblp.org/pid/164/3319.html
+  - name: Julian Loss
+    intro: I am broadly interested in cryptography and its applications to distributed algorithms.
+    link: https://www.julianloss.com/
+    dblp: https://dblp.org/pid/184/3870.html
