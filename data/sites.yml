@@ -3,6 +3,10 @@ sites:
     intro: The IACR is a non-profit organization devoted to supporting the promotion of the science of cryptology.
     link: https://www.iacr.org/news/
     tag: crypto
+  - name: IACR|Events
+    intro: As a service to our members, IACR maintains a calendar of events related to research in cryptology.
+    link: https://www.iacr.org/events/
+    tag: crypto
   - name: BIU Cyber Center|Events
     intro: Welcome to the Bar-llan Center for Research in Applied Cryptography and Cyber Security.
     link: https://cyber.biu.ac.il/events/
