@@ -7,26 +7,22 @@ sites:
     intro: As a service to our members, IACR maintains a calendar of events related to research in cryptology.
     link: https://www.iacr.org/events/
     tag: crypto
-  - name: BIU Cyber Center|Events
-    intro: Welcome to the Bar-llan Center for Research in Applied Cryptography and Cyber Security.
-    link: https://cyber.biu.ac.il/events/
-    tag: crypto
-  - name: AskCrypto
-    intro: Welcome to Ask Cryptography!
-    link: https://askcryp.to/
-    tag: crypto
   - name: CCF Conference DDLs
     intro: CCF Recommendation Conference Deadline Countdowns.
     link: https://ccfddl.github.io/
     tag: conf
+  - name: QuantamaGazine
+    intro: An editorially independent publication supported by the Simons Foundation.
+    link: https://www.quantamagazine.org/
+    tag: magazine
+  - name: Latex Tutorial
+    intro: Welcome to the Overleaf knowledge base. 
+    link: https://www.overleaf.com/learn
+    tag: tutorial
   - name: Simons for TCS
     intro: The world's leading venue for collaborative research in theoretical computer science.
     link: https://simons.berkeley.edu
     tag: tcs
-  - name: QuantamaGazine
-    intro: An editorially independent publication supported by the Simons Foundation.
-    link: https://www.quantamagazine.org/
-    tag: pub
   - name: Confernce Timeline
     intro: Timeline of Privacy & General Security Conferences by Siamak.
     link: https://www-users.york.ac.uk/~sfs521/conference-timeline.html
@@ -43,6 +39,10 @@ sites:
     intro: How to judge how good a conference is?
     link: https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
     tag: conf
+  - name: BIU Cyber Center|Events
+    intro: Welcome to the Bar-llan Center for Research in Applied Cryptography and Cyber Security.
+    link: https://cyber.biu.ac.il/events/
+    tag: crypto
   - name: Lattice Challenge
     intro: Welcome to the lattice challenge.
     link: https://www.latticechallenge.org/
@@ -50,4 +50,8 @@ sites:
   - name: Bochum Challenges
     intro: Encourage cryptanalysis of medium-sized instances of post-quantum schemes.
     link: https://bochum-challeng.es/
+    tag: crypto
+  - name: AskCrypto
+    intro: Welcome to Ask Cryptography!
+    link: https://askcryp.to/
     tag: crypto

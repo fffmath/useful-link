@@ -111,3 +111,11 @@ scholars:
     intro: I am broadly interested in cryptography and its applications to distributed algorithms.
     link: https://www.julianloss.com/
     dblp: https://dblp.org/pid/184/3870.html
+  - name: Ronald Cramer
+    intro: Head of the Cryptology Group, CWI.
+    link: https://homepages.cwi.nl/~cramer/
+    dblp: https://dblp.org/pid/c/RonaldCramer.html
+  - name: Ivan Damgård
+    intro: I am a professor at the computer science department of Aarhus University.
+    link: https://cs.au.dk/~ivan/
+    dblp: https://dblp.org/pid/d/IvanDamgaard.html

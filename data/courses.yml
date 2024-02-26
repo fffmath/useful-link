@@ -11,10 +11,6 @@ courses:
     intro: EECS 598--Lattices in Cryptography (2015) by Chris Peikert.
     link: https://web.eecs.umich.edu/~cpeikert/lic15/index.html
     tag: lattice
-  - name: CSE206A
-    intro: CSE206A--Lattices Algorithms and Applications (Spring 2014) by Daniele Micciancio.
-    link: https://cseweb.ucsd.edu/classes/sp14/cse206A-a/index.html
-    tag: lattice
   - name: CS 294-168
     intro: CS 294-168 LWE and Post-Quantum Cryptography by Vinod Vaikuntanathan.
     link: http://people.csail.mit.edu/vinodv/CS294/
