@@ -23,7 +23,7 @@ sites:
     intro: The world's leading venue for collaborative research in theoretical computer science.
     link: https://simons.berkeley.edu
     tag: tcs
-  - name: Confernce Timeline
+  - name: Conference Timeline
     intro: Timeline of Privacy & General Security Conferences by Siamak.
     link: https://www-users.york.ac.uk/~sfs521/conference-timeline.html
     tag: conf
