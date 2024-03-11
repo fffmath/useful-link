@@ -11,6 +11,10 @@ sites:
     intro: CCF Recommendation Conference Deadline Countdowns.
     link: https://ccfddl.github.io/
     tag: conf
+  - name: Post-quantum cryptography
+    intro: pqcrypto.org was founded by Daniel J. Bernstein and Tanja Lange. Bernstein added the bibliography.
+    link: https://pqcrypto.org/
+    tag: crypto
   - name: QuantamaGazine
     intro: An editorially independent publication supported by the Simons Foundation.
     link: https://www.quantamagazine.org/

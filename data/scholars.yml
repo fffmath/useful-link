@@ -119,3 +119,7 @@ scholars:
     intro: I am a professor at the computer science department of Aarhus University.
     link: https://cs.au.dk/~ivan/
     dblp: https://dblp.org/pid/d/IvanDamgaard.html
+  - name: Serge Vaudenay
+    intro: Full Professor, Security and Cryptography Laboratory.
+    link: https://people.epfl.ch/serge.vaudenay
+    dblp: https://dblp.org/pid/v/SergeVaudenay.html
