@@ -19,6 +19,10 @@ sites:
     intro: What is Lattice-based Cryptography?
     link: https://thelatticeclub.com/
     tag: crypto
+  - name: Links about Lattices
+    intro: Thanks for Tjerand Silde's good work!
+    link: https://tjerandsilde.no/lattices/
+    tag: crypto
   - name: QuantamaGazine
     intro: An editorially independent publication supported by the Simons Foundation.
     link: https://www.quantamagazine.org/
