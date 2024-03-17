@@ -15,6 +15,10 @@ sites:
     intro: pqcrypto.org was founded by Daniel J. Bernstein and Tanja Lange. Bernstein added the bibliography.
     link: https://pqcrypto.org/
     tag: crypto
+  - name: Lattice Cryptography
+    intro: Daniele Micciancio's list of resources on lattice-based cryptography.
+    link: https://cseweb.ucsd.edu/~daniele/LatticeLinks/
+    tag: crypto
   - name: thelatticeclub
     intro: What is Lattice-based Cryptography?
     link: https://thelatticeclub.com/
