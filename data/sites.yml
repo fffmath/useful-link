@@ -31,6 +31,10 @@ sites:
     intro: An editorially independent publication supported by the Simons Foundation.
     link: https://www.quantamagazine.org/
     tag: magazine
+  - name: cryptocode
+    intro: Typesetting pseudocode, protocols, game-based proofs and black-box reductions in cryptography
+    link: https://ctan.org/pkg/cryptocode
+    tag: crypto
   - name: Latex Tutorial
     intro: Welcome to the Overleaf knowledge base. 
     link: https://www.overleaf.com/learn
