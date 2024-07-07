@@ -11,6 +11,10 @@ sites:
     intro: CCF Recommendation Conference Deadline Countdowns.
     link: https://ccfddl.github.io/
     tag: conf
+  - name: 2pi.com
+    intro: Personal notes by Remco Bloemen.
+    link: https://xn--2-umb.com/
+    tag: notes
   - name: pqcrypto.org
     intro: pqcrypto.org was founded by Daniel J. Bernstein and Tanja Lange. Bernstein added the bibliography.
     link: https://pqcrypto.org/
@@ -39,6 +43,14 @@ sites:
     intro: Welcome to the Overleaf knowledge base. 
     link: https://www.overleaf.com/learn
     tag: tutorial
+  - name: Cryptobib
+    intro: Online version of Cryptobib.
+    link: https://publish.iacr.org/cryptobib
+    tag: tools
+  - name: Map view 
+    intro: This is a map view of the affiliations of eprint authors.
+    link: https://eprint.iacr.org/geo/index.html
+    tag: tools
   - name: Simons for TCS
     intro: The world's leading venue for collaborative research in theoretical computer science.
     link: https://simons.berkeley.edu
