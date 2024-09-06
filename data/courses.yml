@@ -3,10 +3,6 @@ courses:
     intro: Foundations of Cryptography by Vinod Vaikuntanathan.
     link: http://mit6875.org/
     tag: crypto
-  - name: MIT 6.S895
-    intro: Quantum Cryptography by Vinod Vaikuntanathan.
-    link: https://mitqcrypto.github.io/
-    tag: qcrypto
   - name: EECS 598 (2015)
     intro: EECS 598--Lattices in Cryptography (2015) by Chris Peikert.
     link: https://web.eecs.umich.edu/~cpeikert/lic15/index.html
@@ -14,7 +10,7 @@ courses:
   - name: CS 294-168
     intro: CS 294-168 LWE and Post-Quantum Cryptography by Vinod Vaikuntanathan.
     link: http://people.csail.mit.edu/vinodv/CS294/
-    tag: crypto
+    tag: lattice
   - name: Simons-Lattice
     intro: Lattices for Algorithms, Complexity, and Cryptography.
     link: https://simons.berkeley.edu/programs/lattices-algorithms-complexity-cryptography/workshops#simons-tabs
@@ -47,3 +43,11 @@ courses:
     intro: Lecture Notes for Cryptographic Computing, by Claudio Orlandi.
     link: https://users-cs.au.dk/orlandi/crycom/
     tag: crypto
+  - name: Getting Started with MPC
+    intro: Resources for Getting Started with MPC, by Yehuda Lindell.
+    link: https://yehudalindell.com/resources-for-getting-started-with-mpc/
+    tag: mpc
+  - name: MIT 6.S895
+    intro: Quantum Cryptography by Vinod Vaikuntanathan.
+    link: https://mitqcrypto.github.io/
+    tag: qcrypto
